@@ -1,0 +1,109 @@
+body{
+    background-color: white;
+    margin: 0;   
+}
+
+h1{
+    color:rgb(39, 95, 63);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.header{
+    height: 16.66%;
+    width: 100%;
+    background-color: #FBD8BC;
+    margin-bottom: 15px;
+}
+
+.contenedorMayor{
+    height: 71%;
+    width: 100%;
+    margin: 0;
+}
+
+.nav{
+    height: 35.71%;
+    width: 20%;
+    float: left;
+    background-color: #B7DDE8;
+    
+}
+
+.contenedorMenor{
+    height: 100%;
+    width: 77.5%;
+    float: right;
+}
+.sectionOne{
+    height: 59.52%;
+    width: 100%;
+    background-color: #D8D8D8;
+    margin-bottom: 12px;
+}
+
+.contenedorOne{
+    height: 75%;
+    width: 91.64%;
+    margin-left: 5.16%;
+}
+
+.article{
+    height: 100%;
+    width: 59.85%;
+    background-color: #8DB1E3;
+    float: left;
+}
+
+.contenedorTwo{
+    height: 100%;
+    width: 37%;
+    float: right;
+}
+
+.aside{
+    height: 46.66%;
+    width: 100%;
+    background-color: #DC9490;
+}
+
+.bottom{
+    margin-bottom: 15px;
+}
+
+
+.sectionTwo{
+    height: 36.9%;
+    width: 100%;
+    background-color: #D8D8D8;
+}
+
+.asideOne{
+    height: 56.45%;
+    width: 33.75%;
+    background-color: #DC9490;
+    float: right;
+    margin-right: 2.85%;
+}
+
+.footer{
+    height: 8.33%;
+    width: 100%;
+    background-color: #D2D3AB;
+    margin-top: 15px;
+}
+
+.textCenter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.border{
+    border: 2px solid rgb(39, 95, 63) ;
+}
+
+.texto{
+    margin-left: 7.74%;
+}
+
